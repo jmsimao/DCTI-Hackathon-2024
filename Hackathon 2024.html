@@ -1,0 +1,978 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: left;">
+      <th></th>
+      <th>nroInscricao</th>
+      <th>nome</th>
+      <th>cpf</th>
+      <th>dataNascimento</th>
+      <th>idade</th>
+      <th>dataNascAjustada</th>
+      <th>genero</th>
+      <th>generoId</th>
+      <th>escolaridade</th>
+      <th>escolaridadeId</th>
+      <th>escolaridade2</th>
+      <th>instituicao</th>
+      <th>instituicaoId</th>
+      <th>telefone</th>
+      <th>telefoneAjustado</th>
+      <th>email</th>
+      <th>cep</th>
+      <th>bairro</th>
+      <th>cidade</th>
+      <th>cidadeId</th>
+      <th>incluiOutro</th>
+      <th>perfil</th>
+      <th>observacao</th>
+      <th>tamanhoCamisetaId</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1</td>
+      <td>Isabelle Victoria Pereira De Souza</td>
+      <td>51454217880</td>
+      <td>12/09/2003</td>
+      <td>20</td>
+      <td>12/09/2003 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Superior</td>
+      <td>25</td>
+      <td>ENSINO SUPERIOR COMPLETO</td>
+      <td>Belas Artes</td>
+      <td>1</td>
+      <td>11954852961</td>
+      <td>(11) 95485-2961</td>
+      <td>isabellevictoria.urs@gmail.com</td>
+      <td>08121-620</td>
+      <td>Jd Nélia</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2</td>
+      <td>Guilherme Antunes de Campos</td>
+      <td>50069148821</td>
+      <td>03/06/2004</td>
+      <td>19</td>
+      <td>03/06/2004 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Superior Cursando</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Fatec Guarulhos</td>
+      <td>2</td>
+      <td>11959762456</td>
+      <td>(11) 95976-2456</td>
+      <td>guiancam@gmail.com</td>
+      <td>7091000</td>
+      <td>Vila Progresso</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>3</td>
+      <td>Wezilyana Melice Farias de Lima</td>
+      <td>1264343442</td>
+      <td>13/08/1983</td>
+      <td>40</td>
+      <td>13/08/1983 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Pós-graduação completo</td>
+      <td>35</td>
+      <td>PÓS-GRADUAÇÃO COMPLETO</td>
+      <td>Wyden</td>
+      <td>3</td>
+      <td>11992471992</td>
+      <td>(11) 99247-1992</td>
+      <td>lilyfarias@gmail.com</td>
+      <td>1529001</td>
+      <td>Aclimação</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Analista de Negócios</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>4</td>
+      <td>Jéssica Bueno Ramos</td>
+      <td>51713271818</td>
+      <td>11/01/2005</td>
+      <td>19</td>
+      <td>11/01/2005 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Superior Cursando</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</td>
+      <td>5</td>
+      <td>11963095666</td>
+      <td>(11) 96309-5666</td>
+      <td>jessicabuenoramos5@gmail.com</td>
+      <td>7141420</td>
+      <td>Jardim Santa Emília</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>5</td>
+      <td>Gabriel Vinícius Rocha Barboza</td>
+      <td>46993988801</td>
+      <td>17/01/2005</td>
+      <td>19</td>
+      <td>17/01/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Cursando Ensino Superior em Análise e desenvolvimento de sistemas</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Instituto Federal de Ciência, Tecnologia e Educação de São Paulo</td>
+      <td>5</td>
+      <td>(11) 94585-0708</td>
+      <td>(11) 94585-0708</td>
+      <td>gabrielrochabarboza@gmail.com</td>
+      <td>07135-720</td>
+      <td>Vila Sítio dos Morros</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>6</td>
+      <td>Richard Klaoss Neumann</td>
+      <td>54807928813</td>
+      <td>30/07/2005</td>
+      <td>18</td>
+      <td>30/07/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino médio e técnico completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>No momento, nenhuma</td>
+      <td>99</td>
+      <td>11997103862</td>
+      <td>(11) 99710-3862</td>
+      <td>richardklaossneumann@gmail.com</td>
+      <td>7230450</td>
+      <td>Parque Uirapuru</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Estudante de programação e concurso</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>7</td>
+      <td>Cristofer Batista da Silva</td>
+      <td>48859050871</td>
+      <td>14/02/2005</td>
+      <td>18</td>
+      <td>14/02/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Médio Completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>16996194782</td>
+      <td>(16) 99619-4782</td>
+      <td>cristofersilva.rp@gmail.com</td>
+      <td>14050220</td>
+      <td>Vila Amélia</td>
+      <td>Ribeirão Preto</td>
+      <td>3</td>
+      <td>N</td>
+      <td>Empreendedor e Designer de UX</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>8</td>
+      <td>Thiago Henrique Silva</td>
+      <td>38298390814</td>
+      <td>22/06/2002</td>
+      <td>21</td>
+      <td>22/06/2002 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Superior Incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Universidade de São Paulo</td>
+      <td>13</td>
+      <td>16993599793</td>
+      <td>(16) 99359-9793</td>
+      <td>thiago@roihack.com.br</td>
+      <td>14051-330</td>
+      <td>Sumarezinho</td>
+      <td>Ribeirão Preto</td>
+      <td>3</td>
+      <td>N</td>
+      <td>Analista de Negócios</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>9</td>
+      <td>Anaíle Silva de Oliveira</td>
+      <td>23033966896</td>
+      <td>19/02/2002</td>
+      <td>21</td>
+      <td>19/02/2002 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Superior Incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Universidade São Judas Tadeu</td>
+      <td>4</td>
+      <td>11987613499</td>
+      <td>(11) 98761-3499</td>
+      <td>autoconhecimento.ana@gmail.com</td>
+      <td>7113090</td>
+      <td>Macedo</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Meu Primeiro Hackathon</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>10</td>
+      <td>Leonardo dos Reis Souza</td>
+      <td>53872905880</td>
+      <td>23/09/2003</td>
+      <td>20</td>
+      <td>23/09/2003 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Cursando superior</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>IFSP instituto federal de São Paulo</td>
+      <td>5</td>
+      <td>11966030157</td>
+      <td>(11) 96603-0157</td>
+      <td>leonardoleoreissouza05@gmail.com</td>
+      <td>08490-600</td>
+      <td>Cidade Tiradentes</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>11</td>
+      <td>Maria Santiellas Costa Rodrigues</td>
+      <td>35403699880</td>
+      <td>29/11/1988</td>
+      <td>35</td>
+      <td>29/11/1988 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Pós graduação completa</td>
+      <td>35</td>
+      <td>PÓS-GRADUAÇÃO COMPLETO</td>
+      <td>Usp</td>
+      <td>13</td>
+      <td>(11) 98260-1703</td>
+      <td>(11) 98260-1703</td>
+      <td>maria.santiellas@gmail.com</td>
+      <td>07043-000</td>
+      <td>Vila das bandeiras</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Analista de Negócios</td>
+      <td>Tamanho de Camiseta: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>12.1</td>
+      <td>Andrey Oliveira Pinto</td>
+      <td>56851805863</td>
+      <td>03/03/2005</td>
+      <td>18</td>
+      <td>03/03/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Médio completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>Etec Abdias do Nascimento</td>
+      <td>10</td>
+      <td>11967842321</td>
+      <td>(11) 96784-2321</td>
+      <td>and.oliv5@gmail.com</td>
+      <td>05661-050</td>
+      <td>Paraisópolis</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 01</td>
+      <td>estudante</td>
+      <td>Tamanho de Camiseta: GG</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>12.2</td>
+      <td>Giovanna Carvalho de Moraes</td>
+      <td>50546847862</td>
+      <td>16/04/2006</td>
+      <td>17</td>
+      <td>16/04/2006 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Médio completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>Etec Abdias do nascimento</td>
+      <td>10</td>
+      <td>11 97753-8551</td>
+      <td>(11) 97753-8551</td>
+      <td>giovannamilena50@gmail.com</td>
+      <td>5756420</td>
+      <td>Morumbi</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 01</td>
+      <td>estudante</td>
+      <td>Tamanho de Camiseta 2: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>12.3</td>
+      <td>Sthefany dos Santo Soares</td>
+      <td>57520934810</td>
+      <td>30/05/2004</td>
+      <td>19</td>
+      <td>30/05/2004 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Médio completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>Etec Abdias do nascimento</td>
+      <td>10</td>
+      <td>11948235720</td>
+      <td>(11) 94823-5720</td>
+      <td>sthefanysantossoaresp36@gmail.com</td>
+      <td>05664-010</td>
+      <td>Paraisópolis</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 01</td>
+      <td>estudante</td>
+      <td>Tamanho de Camiseta 3: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>12.4</td>
+      <td>Laura Carvalho de Moraes</td>
+      <td>50288218876</td>
+      <td>28/04/2008</td>
+      <td>15</td>
+      <td>28/04/2008 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Ensino Médio incompleto</td>
+      <td>10</td>
+      <td>ENSINO MÉDIO INCOMPLETO/CURSANDO</td>
+      <td>Etec Abdias do Nascimento</td>
+      <td>10</td>
+      <td>11 95158-9982</td>
+      <td>(11) 95158-9982</td>
+      <td>lauramilena992@gmail.com</td>
+      <td>5756420</td>
+      <td>Morumbi</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 01</td>
+      <td>estudante</td>
+      <td>Tamanho de Camiseta 3: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>13</td>
+      <td>Thaiza Carvalho Nascimento</td>
+      <td>45016234892</td>
+      <td>02/10/2002</td>
+      <td>21</td>
+      <td>02/10/2002 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Superior cursando</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Centro Universitário Belas Artes de São Paulo</td>
+      <td>1</td>
+      <td>1999548034</td>
+      <td>(19) 99548-034</td>
+      <td>thaizacarvalh@gmail.com</td>
+      <td>3064000</td>
+      <td>Tatuapé</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>14</td>
+      <td>Esther Felipe dos Santos Farias</td>
+      <td>46238473819</td>
+      <td>27/02/2003</td>
+      <td>20</td>
+      <td>27/02/2003 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>6º Período - Engenharia Civil</td>
+      <td>-1</td>
+      <td>N/D</td>
+      <td>Centro Universitário Eniac</td>
+      <td>6</td>
+      <td>11988538618</td>
+      <td>(11) 98853-8618</td>
+      <td>esther.farias272@gmail.com</td>
+      <td>7190050</td>
+      <td>Parque Cecap</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>15</td>
+      <td>Cristhian Ruescas</td>
+      <td>46894337802</td>
+      <td>29/07/2003</td>
+      <td>20</td>
+      <td>29/07/2003 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Cursando Faculdade</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Cursando Faculdade</td>
+      <td>99</td>
+      <td>11959586681</td>
+      <td>(11) 95958-6681</td>
+      <td>Cristhian.ruescas83@gmail.com</td>
+      <td>3641000</td>
+      <td>Penha</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>16</td>
+      <td>Uara sales alves de sousa</td>
+      <td>40974681890</td>
+      <td>09/02/2004</td>
+      <td>20</td>
+      <td>09/02/2004 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Superior incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>FIAP</td>
+      <td>7</td>
+      <td>11960953194</td>
+      <td>(11) 96095-3194</td>
+      <td>Uarasales09@gmail.com</td>
+      <td>4209001</td>
+      <td>Ipiranga</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>17</td>
+      <td>Felipe Vinícius Pedro</td>
+      <td>46304752814</td>
+      <td>22/08/1996</td>
+      <td>27</td>
+      <td>22/08/1996 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Superior</td>
+      <td>25</td>
+      <td>ENSINO SUPERIOR COMPLETO</td>
+      <td>FAM</td>
+      <td>8</td>
+      <td>11970335014</td>
+      <td>(11) 97033-5014</td>
+      <td>felipe.1577@outlook.com</td>
+      <td>07244-420</td>
+      <td>Pimentas</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>18</td>
+      <td>Lucas da Silva Nicoleti</td>
+      <td>39969447807</td>
+      <td>27/11/1996</td>
+      <td>27</td>
+      <td>27/11/1996 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Pós-graduação incompleto</td>
+      <td>30</td>
+      <td>PÓS-GRADUAÇÃO INCOMPLETO/CURSANDO</td>
+      <td>UNICAMP</td>
+      <td>9</td>
+      <td>(19) 98448-7675</td>
+      <td>(19) 98448-7675</td>
+      <td>lucas@ecomilhas.app</td>
+      <td>5425000</td>
+      <td>Pinheiros</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Designer de UX</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>19.1</td>
+      <td>Murillo Nunes Baima</td>
+      <td>39387885852</td>
+      <td>9/10/2006</td>
+      <td>17</td>
+      <td>09/10/2006 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino médio incompleto</td>
+      <td>10</td>
+      <td>ENSINO MÉDIO INCOMPLETO/CURSANDO</td>
+      <td>Liceu de Artes e Ofícios</td>
+      <td>11</td>
+      <td>11989780089</td>
+      <td>(11) 98978-0089</td>
+      <td>murillo.bnunes@outlook.com.br</td>
+      <td>07080-120</td>
+      <td>Picanço</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>GRUPO 02</td>
+      <td>Meu Primeiro Hackathon</td>
+      <td>Tamanho de Camiseta: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>19.2</td>
+      <td>Enzo de Melo Galvão</td>
+      <td>45380227805</td>
+      <td>28/05/2006</td>
+      <td>17</td>
+      <td>28/05/2006 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>ENSINO MEDIO INCOMPLETO</td>
+      <td>10</td>
+      <td>ENSINO MÉDIO INCOMPLETO/CURSANDO</td>
+      <td>LICEU DE ARTES E OFÍCIOS</td>
+      <td>11</td>
+      <td>11940283469</td>
+      <td>(11) 94028-3469</td>
+      <td>enzomgalvao@gmail.com</td>
+      <td>3589001</td>
+      <td>Conjunto Habitacional Padre José de Anchieta</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 02</td>
+      <td>Meu Primeiro Hackathon</td>
+      <td>Tamanho de Camiseta 2: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>20</td>
+      <td>Jairo Mendes</td>
+      <td>35146549800</td>
+      <td>12/10/1984</td>
+      <td>39</td>
+      <td>12/10/1984 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Superior Incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>11991189368</td>
+      <td>(11) 99118-9368</td>
+      <td>jairomendes@terra.com.br</td>
+      <td>1543010</td>
+      <td>Cambuci</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>Não</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: GG</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>21.1</td>
+      <td>Caroline Alves Florencio</td>
+      <td>520.096.608-62</td>
+      <td>31/12/2002</td>
+      <td>21</td>
+      <td>31/12/2002 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Cursando Analise e Desenvolvimento de Sistemas</td>
+      <td>-1</td>
+      <td>N/D</td>
+      <td>Drummond</td>
+      <td>14</td>
+      <td>11941537337</td>
+      <td>(11) 94153-7337</td>
+      <td>alvesflorenciocaroline@gmail.com</td>
+      <td>3911010</td>
+      <td>Vila Rica</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 03</td>
+      <td>Meu Primeiro Hackathon</td>
+      <td>Tamanho de Camiseta: GG</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>21.2</td>
+      <td>Rafael Gustavo de Oliveira Pereira</td>
+      <td>49533400862</td>
+      <td>21/09/1998</td>
+      <td>25</td>
+      <td>21/09/1998 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino medio</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>11962821341</td>
+      <td>(11) 96282-1341</td>
+      <td>rafaelgustavo271@gmail.com</td>
+      <td>3911010</td>
+      <td>Vila Rica</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>GRUPO 03</td>
+      <td>Meu Primeiro Hackathon</td>
+      <td>Tamanho de Camiseta: GG</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>22.1</td>
+      <td>Bruna de Almeida Pessoa</td>
+      <td>36965492821</td>
+      <td>27/02/1998</td>
+      <td>25</td>
+      <td>27/02/1998 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Superior (cursando)</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Instituto Federal de São Paulo Campus Guarulhos</td>
+      <td>5</td>
+      <td>(11) 96031-9033</td>
+      <td>(11) 96031-9033</td>
+      <td>brualm99@hotmail.com</td>
+      <td>07097-429</td>
+      <td>Jardim Flor da Montanha</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>GRUPO 04</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>22.2</td>
+      <td>Leticia Ferreira da Silva</td>
+      <td>45712576864</td>
+      <td>05/03/2004</td>
+      <td>19</td>
+      <td>05/03/2004 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Superior (cursando)</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Instituto Federal de São Paulo Campus Guarulhos</td>
+      <td>5</td>
+      <td>(11) 93315-9810</td>
+      <td>(11) 93315-9810</td>
+      <td>leticiasilva41@yahoo.com</td>
+      <td>07176-090</td>
+      <td>Vila Nova Bonsucesso</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>GRUPO 04</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta 2: P</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>22.3</td>
+      <td>Miguel do Nascimento Vieira</td>
+      <td>064.796.301-90</td>
+      <td>20/09/2001</td>
+      <td>22</td>
+      <td>20/09/2001 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino superior incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Instituto Federal de São Paulo - GRU</td>
+      <td>5</td>
+      <td>(11) 98702-2018</td>
+      <td>(11) 98702-2018</td>
+      <td>miguelitovieira68@gmail.com</td>
+      <td>07124-300</td>
+      <td>Vila bremen</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>GRUPO 04</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>22.4</td>
+      <td>Sandra Rojas Zegarrundo</td>
+      <td>37580996847</td>
+      <td>05/11/1989</td>
+      <td>34</td>
+      <td>05/11/1989 00:00:00</td>
+      <td>Feminino</td>
+      <td>1</td>
+      <td>Superior</td>
+      <td>25</td>
+      <td>ENSINO SUPERIOR COMPLETO</td>
+      <td>Instituto Federal de São Paulo Campus Guarulhos</td>
+      <td>5</td>
+      <td>(19) 99735-5068</td>
+      <td>(19) 99735-5068</td>
+      <td>san.zegarrundo@gmail.com</td>
+      <td>07160-170</td>
+      <td>Jardim Santo Expedito</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>GRUPO 04</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta 4: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>23</td>
+      <td>Guilherme Pereira Martins</td>
+      <td>5698607810</td>
+      <td>2072005</td>
+      <td>18</td>
+      <td>20/07/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Médio Completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>E.E Professor Moacyr Campos</td>
+      <td>12</td>
+      <td>11984351276</td>
+      <td>(11) 98435-1276</td>
+      <td>guilhermepereira0207@gmail.com</td>
+      <td>3930100</td>
+      <td>Jardim São Cristóvão</td>
+      <td>São Paulo</td>
+      <td>2</td>
+      <td>N</td>
+      <td>Analista de Soluções Remotas - Eu me chamo Guilherme Pereira, tenho 18 anos e atualmente estou empregado trabalhando na área de soluções remotas, sou formado em técnico em Desenvolvimento de sistemas e pretendo ingressar na faculdade de análise e desenvolvimento de sistemas para adquiri mais conhecimento e evoluir na área. Tenho bastante capacitação em Cloud e em ambientes on-premises, trabalho com o SCCM e tenho conhecimento intermediário em Python e Java.</td>
+      <td>Tamanho de Camiseta: M</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>24/25 ERRO DE INSCRIÇÃO</td>
+      <td>Joao Rubens Belluzzo Neto</td>
+      <td>54562250852</td>
+      <td>5082001</td>
+      <td>22</td>
+      <td>05/08/2001 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Cursando Ensino Superior</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>FIAP</td>
+      <td>7</td>
+      <td>13991190778</td>
+      <td>(13) 99119-0778</td>
+      <td>bellujrb@gmail.com</td>
+      <td>11440170</td>
+      <td>Enseada</td>
+      <td>Guaruja</td>
+      <td>5</td>
+      <td>N</td>
+      <td>Desenvolvedor</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>26</td>
+      <td>Ayke de Souza Lopes</td>
+      <td>52489918893</td>
+      <td>31/01/2005</td>
+      <td>19</td>
+      <td>31/01/2005 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>ensino superior incompleto</td>
+      <td>20</td>
+      <td>ENSINO SUPERIOR INCOMPLETO/CURSANDO</td>
+      <td>Impacta</td>
+      <td>15</td>
+      <td>11963431280</td>
+      <td>(11) 96343-1280</td>
+      <td>aykelopes@gmail.com</td>
+      <td>9134620</td>
+      <td>recreio da borda do campo</td>
+      <td>santo andre</td>
+      <td>4</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>27</td>
+      <td>Eduardo Almeida de Oliveira</td>
+      <td>301.583.998-54</td>
+      <td>14/01/1982</td>
+      <td>42</td>
+      <td>14/01/1982 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Superior completo</td>
+      <td>25</td>
+      <td>ENSINO SUPERIOR COMPLETO</td>
+      <td>Vunesp EAD</td>
+      <td>16</td>
+      <td>11 98146-0913</td>
+      <td>(11) 98146-0913</td>
+      <td>edu24horas@gmail.com</td>
+      <td>07121-310</td>
+      <td>Jardim Toscana</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Universitário</td>
+      <td>Tamanho de Camiseta: GG</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>28</td>
+      <td>Kauã De Oliveira</td>
+      <td>55983509802</td>
+      <td>27/2/2004</td>
+      <td>19</td>
+      <td>27/02/2004 00:00:00</td>
+      <td>Masculino</td>
+      <td>2</td>
+      <td>Ensino Médio Completo</td>
+      <td>15</td>
+      <td>ENSINO MÉDIO COMPLETO</td>
+      <td>João Cavalheiro Salém</td>
+      <td>17</td>
+      <td>(11) 97269-3722</td>
+      <td>(11) 97269-3722</td>
+      <td>chetoni2022@gmail.com</td>
+      <td>07240-030</td>
+      <td>Jardim Cumbica</td>
+      <td>Guarulhos</td>
+      <td>1</td>
+      <td>N</td>
+      <td>Analista de Negócios</td>
+      <td>Tamanho de Camiseta: G</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
