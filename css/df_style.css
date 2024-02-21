@@ -14,7 +14,7 @@
 }
 
 .mystyle thead {
-    background: #D6DBDF;
+    background: silver;
     color: rgb(31, 34, 226);
 }
 
@@ -24,7 +24,7 @@
 }
 
 .mystyle tr:nth-child(even) {
-    background: #cae5ba;
+    background: #D4EFDF;
 }
 
 .mystyle tr:hover {
