@@ -8,7 +8,7 @@
 
 .mystyle {
     font-size: 11pt; 
-    font-family: Arial;
+    font-family: Arial, Verdana, 'Times New Roman', Times, serif;
     border-collapse: collapse; 
     border: 1px solid #CCD1D1;
 }
@@ -20,7 +20,6 @@
 
 .mystyle td, th {
     padding: 5px;
-    width: 300px;
 }
 
 .mystyle tr:nth-child(even) {
