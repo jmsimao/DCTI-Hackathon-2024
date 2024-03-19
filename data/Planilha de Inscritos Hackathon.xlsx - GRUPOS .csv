@@ -1,9 +1,9 @@
 TABELA DE GRUPOS HACKATHON,,,,,,,,,,,,,,Legenda,,
 Situação,Nº de Inscrição,Nome Completo,CPF,Data/Nasc,Gênero,Ensino,Instituição,Telefone,E-mail,CEP,Bairro,Cidade,grupo,Perfis,Camiseta,Resposta Forms
-No grupo,12.1,Andrey Oliveira Pinto,56851805863,03/03/2005,Masculino,Ensino Médio completo,Etec Abdias do Nascimento,11967842321,and.oliv5@gmail.com,05661-050,Paraisópolis,São Paulo,GRUPO 01,estudante,Tamanho de Camiseta: GG,
-No grupo,12.2,Giovanna Carvalho de Moraes,50546847862,16/04/2006,Feminino,Ensino Médio completo,Etec Abdias do nascimento,11 97753-8551,giovannamilena50@gmail.com,5756420,Morumbi,São Paulo,GRUPO 01,estudante,Tamanho de Camiseta 2: G,
-No grupo,12.3,Sthefany dos Santo Soares,57520934810,30/05/2004,Feminino,Ensino Médio completo,Etec Abdias do nascimento,11948235720,sthefanysantossoaresp36@gmail.com,05664-010,Morumbi,São Paulo,GRUPO 01,estudante,Tamanho de Camiseta 3: G,Sim
-No grupo,12.4,Laura Carvalho de Moraes,50288218876,28/04/2008,Feminino,Ensino Médio incompleto,Etec Abdias do Nascimento,11 95158-9982,lauramilena992@gmail.com,5756420,,São Paulo,GRUPO 01,estudante,Tamanho de Camiseta 3: G,
+No grupo,1,Isabelle Victoria Pereira De Souza,51454217880,12/09/2003,Feminino,Ensino Superior,Belas Artes,11954852961,isabellevictoria.urs@gmail.com,08121-620,Jd Nélia,São Paulo,GRUPO 7,Desenvolvedor,Tamanho de Camiseta: M,
+,16,Uara sales alves de sousa,40974681890,09/02/2004,Feminino,Superior incompleto,FIAP,11960953194,Uarasales09@gmail.com,4209001,Ipiranga,São Paulo,N,Universitário,Tamanho de Camiseta: P,
+No grupo,5,Gabriel Vinícius Rocha Barboza,46993988801,17/01/2005,Masculino,Cursando Ensino Superior em Análise e desenvolvimento de sistemas," Instituto Federal de Ciência, Tecnologia e Educação de São Paulo",(11) 94585-0708,gabrielrochabarboza@gmail.com,07135-720,Vila Sítio dos Morros,Guarulhos,N,Desenvolvedor,Tamanho de Camiseta: G,Sim
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 No grupo,47.1,Nicoli Mian Ventura de Paula,,27/10/2006,Feminino,Ensino médio,Eniac,11947242780,nicolimvp@gmail.com,54024140841,Copaco,Arujá,GRUPO 02,Universitário,Tamanho de Camiseta: M,Sim
 No grupo,47.2,Marcus Vinicius Gomes Pereira,,03/11/2004,Masculino,Ensino médio,,11949742899, marcusgomesv@outlook.com,2225000,Jardim Brasil,São Paulo,GRUPO 02,Universitário,Tamanho de Camiseta: GG,Sim
@@ -33,27 +33,29 @@ No grupo,32.4,Manuela Moreira Gadelho,52184260835,14/08/2002,Feminino,Cursando G
 No grupo,59.1,Isabella Bianca Machado,,22/11/2007,Feminino,Ensino médio,Eniac,55 11 978746927,Isabella.biamachado@gmail.com,07191-000,Bela Vista,Guarulhos,GRUPO 7,Meu Primeiro Hackathon,Tamanho de Camiseta 3: M,Sim
 No grupo,59.2,Elis Teixeira Novo,,09/04/2008,Feminino,Ensino médio,Eniac,55 11 952705050,elis.teixeiranovo98@gmail.com,7096200,Jardim Santa Mena,Guarulhos,GRUPO 7,Meu Primeiro Hackathon,Tamanho de Camiseta 3: M,Sim
 No grupo,59.3,Denise Barreto Chaves,,06/06/2008,Feminino,Ensino médio,Eniac,55 11 988718093,dbchaves2008@gmail.com,0790-160,Vila Zanardi,Guarulhos,GRUPO 7,Meu Primeiro Hackathon,Tamanho de Camiseta 3: M,Sim
-No grupo,1,Isabelle Victoria Pereira De Souza,51454217880,12/09/2003,Feminino,Ensino Superior,Belas Artes,11954852961,isabellevictoria.urs@gmail.com,08121-620,Jd Nélia,São Paulo,GRUPO 7,Desenvolvedor,Tamanho de Camiseta: M,Sim
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 Desistência,60.1,Maria Vitória Silva Santos,,06/08/2005,Feminino,Cursando senac rh,Senac celestino,11980328434,Mariavitoria060805@gmail.com,07115-000,Centro,Guarulhos,GRUPO 20,Meu Primeiro Hackathon,Tamanho de Camiseta: P,
 Desistência,60.2,Guilherme Carvalho,,31/03/2005,Masculino,Cursando administração,Senac celestino,11980328434,Mariavitoria060805@gmail.com,07115-000,Centro,Guarulhos,GRUPO 20,Meu Primeiro Hackathon,Tamanho de Camiseta 2: GG,
 No grupo,15,Cristhian Ruescas,46894337802,29/07/2003,Masculino,Cursando Faculdade,Cursando Faculdade,11959586681,Cristhian.ruescas83@gmail.com,3641000,Penha,São Paulo,N,Desenvolvedor,Tamanho de Camiseta: G,
 No grupo,63,Milena Franco de Oliveira,,12/01/1998,Feminino,Superior completo,Unisa,11951757896,milena.franco3008@gmail.com,4850230,Pq cocaia,São Paulo,GRUPO 8,Universitário,Tamanho de Camiseta: P,
 No grupo,8,Thiago Henrique Silva,38298390814,22/06/2002,Masculino,Ensino Superior Incompleto,Universidade de São Paulo,16993599793,thiago@roihack.com.br,14051-330,Sumarezinho,Ribeirão Preto,GRUPO 8,Analista de Negócios,Tamanho de Camiseta: M,Sim
-No grupo,73,Caio Fernando Gonçalves Francisco,,05/12/2000,Masculino,Bacharel em sistemas de informação,USP,11949282317,caiofernandog88@gmail.com,3827000,Ermelino Matarazzo,São Paulo,GRUPO 14,Desenvolvedor,Tamanho de Camiseta: M,Sim
+No grupo,65,Gabriel Sérvulo Nogueira,,01/08/2005,Masculino,ensino médio integrado informática para Internet,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo IFSP Guarulhos",11959471328,gabriel.servulo@aluno.ifsp.edu.br,02278-030,Vila Nilo,São Paulo,GRUPO 15,Meu Primeiro Hackathon,Tamanho de Camiseta: G,Sim
 ,,,,,,,,,,,,,,,,
-No grupo,55.1,Yasmim Cristina da Silva Ramos,,24/08/2005,Feminino,Cursando ensino superior,Anhanguera marte,11969755750,ycdsr24@gmail.com,08051-340,Limoeiro,SÃO PAULO,GRUPO 9,Universitário,Tamanho de Camiseta: P,Sim
-No grupo,55.2,Filipe Lohan Saraiva Xavier,,1/1/2006,Masculino,Cursando ensino superior,Centro universitário Eniac,11985733390,filipelohan62@gmail.com,7175180,Nova Bonsucesso,Guarulhos,GRUPO 9,Universitário,Tamanho de Camiseta 2: G,Sim
+No grupo,70.1,Evelyn De Camargo Ramos,,04/05/2006,Feminino,Ensino médio,Eniac,11 93370‑8083‬,Evelyncamargo456@gmail.com,2234010,Parque Edu Chaves,São Paulo,GRUPO 9,,,
+No grupo,70.2,Laís Alves da Cruz,,06/09/2006,Feminino,Ensino médio,Eniac,11 93145-2224,laisalvescruz2016@gmail.com,07095-090,Jardim Zaira,Guarulhos,GRUPO 9,,,
 No grupo,13,Thaiza Carvalho Nascimento,45016234892,02/10/2002,Feminino,Superior cursando,Centro Universitário Belas Artes de São Paulo,1999548034,thaizacarvalh@gmail.com,3064000,Tatuapé,São Paulo,GRUPO 9,Desenvolvedor,Tamanho de Camiseta: P,Sim
 No grupo,23,Guilherme Pereira Martins,5698607810,02/07/2005,Masculino,Ensino Médio Completo,E.E Professor Moacyr Campos,11984351276,guilhermepereira0207@gmail.com,3930100,Jardim São Cristóvão,São Paulo,GRUPO 9,"Analista de Soluções Remotas - Eu me chamo Guilherme Pereira, tenho 18 anos e atualmente estou empregado trabalhando na área de soluções remotas, sou formado em técnico em Desenvolvimento de sistemas e pretendo ingressar na faculdade de análise e desenvolvimento de sistemas para adquiri mais conhecimento e evoluir na área. Tenho bastante capacitação em Cloud e em ambientes on-premises, trabalho com o SCCM e tenho conhecimento intermediário em Python e Java.",Tamanho de Camiseta: M,Sim
 ,,,,,,,,,,,,,,,,
 No grupo,19.1,Murillo Nunes Baima,39387885852,09/10/2006,Masculino,Ensino médio incompleto,Liceu de Artes e Ofícios,11989780089,murillo.bnunes@outlook.com.br,07080-120,Picanço,Guarulhos,GRUPO 10,Meu Primeiro Hackathon,Tamanho de Camiseta: P,Sim
 No grupo,19.2,Enzo de Melo Galvão,45380227805,28/05/2006,Masculino,ENSINO MEDIO INCOMPLETO,LICEU DE ARTES E OFÍCIOS,11940283469,enzomgalvao@gmail.com,3589001,Conjunto Habitacional Padre José de Anchieta,São Paulo,GRUPO 10,Meu Primeiro Hackathon,Tamanho de Camiseta 2: M,
+No grupo,69.1,João Pedro Mesquita Lima,,31/01/2001,Masculino,Cursando Ensino Superior,Instituto Federal de São Paulo - Campus Guarulhos,11995388091,joao.pedroml@protonmail.com,7260020,Parque São Miguel,Guarulhos,GRUPO 23,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
+No grupo,69.2,Thiago Reis Freitas,,07/02/2000,Masculino,Cursando Ensino Superior,Faculdade Descomplica,11961782713,devthiagoreis@gmail.com,7110040,Jardim São Paulo,Guarulhos,GRUPO 23,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
 No grupo,7,Cristofer Batista da Silva,48859050871,14/02/2005,Masculino,Ensino Médio Completo,,16996194782,cristofersilva.rp@gmail.com,14050220,Vila Amélia,Ribeirão Preto,GRUPO 10,Empreendedor e Designer de UX,Tamanho de Camiseta: G,Sim
 No grupo,44,Giovani Sant'Ana Ferreira Pedroso Vaz,,04/12/1997,Masculino,Superior Completo,Universidade Nove de Julho - Uninove,11974297639,giovanisfpv@gmail.com,6660020,Jardim Santa Rita,Itapevi,GRUPO 10,Desenvolvedor,Tamanho de Camiseta: GG,Sim
 ,,,,,,,,,,,,,,,,
 No grupo,21.1,Caroline Alves Florencio,520.096.608-62,31/12/2002,Feminino,Cursando Analise e Desenvolvimento de Sistemas,Drummond,11941537337,alvesflorenciocaroline@gmail.com,3911010,Vila Rica,São Paulo,GRUPO 11,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
-Desistência,21.2,Rafael Gustavo de Oliveira Pereira,49533400862,21/09/1998,Masculino,Ensino medio,,11962821341,rafaelgustavo271@gmail.com,3911010,Vila Rica,São Paulo,GRUPO 03,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
+No grupo,33,Thiago Oliveira Caldas,547.572.318-84,25/12/2005,Masculino,Ensino médio - (Último ano em curso),,(13) 99164-5376,thiago.oliveira.caldas@gmail.com,11346-180,Gleba II,São Vicente,N,Meu Primeiro Hackathon,Tamanho de Camiseta: G,
 No grupo,14,Esther Felipe dos Santos Farias,46238473819,27/02/2003,Feminino,6º Período - Engenharia Civil,Centro Universitário Eniac,11988538618,esther.farias272@gmail.com,7190050,Parque Cecap,Guarulhos,GRUPO 11,Universitário,Tamanho de Camiseta: P,Sim
 No grupo,71,Hélio Batista da Silva,,29/08/1973,Masculino,Engenheiro pós graduado em empreendedorismo e inovação tecnologica nas engenharias,FATEC SP,11992840687,helio.batista@unesp.br,7230261,Jardim otawa,Guarulhos,GRUPO 11,Universitário,Tamanho de Camiseta: GG,Sim
 No grupo,37,Flavia Firmino de Oliveira,41125303824,29/03/1993,Feminino,Graduada,,5511963793442,flavia.firmino@live.com,08280-430,Cidade Lider Itaquera,São Paulo,GRUPO 11,Designer de UX,Tamanho de Camiseta: G,Sim
@@ -61,7 +63,7 @@ No grupo,37,Flavia Firmino de Oliveira,41125303824,29/03/1993,Feminino,Graduada,
 No grupo,22.1,Bruna de Almeida Pessoa,36965492821,27/02/1998,Feminino,Superior (cursando),Instituto Federal de São Paulo Campus Guarulhos,(11) 96031-9033,brualm99@hotmail.com,07097-429,Jardim Flor da Montanha,Guarulhos,GRUPO 12,Universitário,Tamanho de Camiseta: M,
 No grupo,22.2,Leticia Ferreira da Silva,45712576864,05/03/2004,Feminino,Superior (cursando),Instituto Federal de São Paulo Campus Guarulhos,(11) 93315-9810,leticiasilva41@yahoo.com,07176-090,Vila Nova Bonsucesso,Guarulhos,GRUPO 12,Universitário,Tamanho de Camiseta 2: P,Sim
 No grupo,22.3,Miguel do Nascimento Vieira,064.796.301-90,20/09/2001,Masculino,Ensino superior incompleto,Instituto Federal de São Paulo - GRU,(11) 98702-2018,miguelitovieira68@gmail.com,07124-300,Vila bremen,Guarulhos,GRUPO 12,Universitário,Tamanho de Camiseta: M,Sim
-No grupo,22.4,Sandra Rojas Zegarrundo,37580996847,05/11/1989,Feminino,Superior,Instituto Federal de São Paulo Campus Guarulhos,(19) 99735-5068,san.zegarrundo@gmail.com,07160-170,Jardim Santo Expedito,Guarulhos,GRUPO 12,Universitário,Tamanho de Camiseta 4: M,Sim
+No grupo,22.4, Rojas Zegarrundo,37580996847,05/11/1989,Feminino,Superior,Instituto Federal de São Paulo Campus Guarulhos,(19) 99735-5068,san.zegarrundo@gmail.com,07160-170,Jardim Santo Expedito,Guarulhos,GRUPO 12,Universitário,Tamanho de Camiseta 4: M,Sim
 ,,,,,,,,,,,,,,,,
 No grupo,66,Lais Carneiro Cardoso,,23/07/1996,Feminino,Superior em andamento,Unisa,11949542830,carneirolais@hotmail.com,4855320,Três corações,São Paulo,GRUPO 13,Universitário,Tamanho de Camiseta: M,
 No grupo,40,Renato Gonçalves dos Santos,38751297841,14/07/1990,Masculino,Graduação tecnológica,Fatec faculdade de tecnologia de São Paulo,11986309724,rgscomunik@gmail.com,5881130,Jd.São Bento,São Paulo,GRUPO 13,"Designer de UX: Trabalho com Design e inovação há 10 anos! Formado em Análise e desenvolvimento de sistemas e Publicidade. Acredito que para começar algo precisamos entender o contexto, dores e obstáculos, mergulhar no universo dos usuários através de pesquisas e indicadores para enxergar a jornada do produto e usabilidade. Gosto de tecnologia, criatividade, pessoas e podcasts.",Tamanho de Camiseta: G,
@@ -71,14 +73,14 @@ No grupo,29,DAIANE NEVES DO NASCIMENTO,34002486818,30/01/1986,Feminino,Bacharel,
 Desistência,9,Anaíle Silva de Oliveira,23033966896,19/02/2002,Feminino,Ensino Superior Incompleto,Universidade São Judas Tadeu,11987613499,autoconhecimento.ana@gmail.com,7113090,Macedo,Guarulhos,N,Meu Primeiro Hackathon,Tamanho de Camiseta: M,
 No grupo,18,Lucas da Silva Nicoleti,39969447807,27/11/1996,Masculino,Pós-graduação incompleto,UNICAMP,(19) 98448-7675,lucas@ecomilhas.app,5425000,Pinheiros,São Paulo,GRUPO 14,Designer de UX,Tamanho de Camiseta: G,
 No grupo,11,Maria Santiellas Costa Rodrigues,35403699880,29/11/1988,Feminino,Pós graduação completa,Usp,(11) 98260-1703,maria.santiellas@gmail.com,07043-000,Vila das bandeiras,Guarulhos,GRUPO 14,Analista de Negócios,Tamanho de Camiseta: P,
-No grupo,,,,,,,,,,,,,,,,
-No grupo,,,,,,,,,,,,,,,,
+No grupo,69.1,João Pedro Mesquita Lima,,31/01/2001,Masculino,Cursando Ensino Superior,Instituto Federal de São Paulo - Campus Guarulhos,11995388091,joao.pedroml@protonmail.com,7260020,Parque São Miguel,Guarulhos,GRUPO 14,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
+No grupo,69.2,Thiago Reis Freitas,,07/02/2000,Masculino,Cursando Ensino Superior,Faculdade Descomplica,11961782713,devthiagoreis@gmail.com,7110040,Jardim São Paulo,Guarulhos,GRUPO 14,Meu Primeiro Hackathon,Tamanho de Camiseta: GG,
 ,,,,,,,,,,,,,,,,
 No grupo,4.2,Giane Mayumi Galhard,49149278886,09/11/2003,Feminino,Ensino Superior em andamento,Universidade de São Paulo,(11) 995995932,gianemayumi@usp.br,7133070,Jardim Bela Vista,Guarulhos,GRUPO 15,Universitário,Tamanho de Camiseta: P,
 No grupo,41.1,Sabrina Lopes Soares,53671050845,21/09/2003,Feminino,Ensino Superior,Instituto Federal de São Paulo - Câmpus Guarulhos,11954619256,sabrinalopessoares305@gmail.com,7084100,Continental 2,Guarulhos,GRUPO 15,Analista de Sistema,Tamanho de Camiseta: M,Sim
 No grupo,41.2,Jhordan dos Santos Alves,46545118811,01/09/1999,Masculino,Ensino Médio,E.E. Prof. Frederico de Barros Brotero,11954619256,331jhordan@gmail.com,7084100,Continental 2,Guarulhos,GRUPO 15,Analista de Sistema,Tamanho de Camiseta: GG,Sim
-No grupo,65,Gabriel Sérvulo Nogueira,,01/08/2005,Masculino,ensino médio integrado informática para Internet,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo IFSP Guarulhos",11959471328,gabriel.servulo@aluno.ifsp.edu.br,02278-030,Vila Nilo,São Paulo,GRUPO 15,Meu Primeiro Hackathon,Tamanho de Camiseta: G,Sim
-Desistência,76,Erick Daniel Santiago de Araujo,,11/02/2003,Masculino,Técnico Concluido - Desenvolvimento de Software,Etec Guarulhos,11 91935-4119,danielkewem2014@gmail.com,7231110,Rua Itapeva 522 - Cidade Ind. Satélite,Guarulhos,N,Desenvolvedor,Tamanho de Camiseta: M,
+,,,,,,,,,,,,,,,,
+no grupo,73,Caio Fernando Gonçalves Francisco,,05/12/2000,Masculino,Bacharel em sistemas de informação,USP,11949282317,caiofernandog88@gmail.com,3827000,Ermelino Matarazzo,São Paulo,GRUPO 14,Desenvolvedor,Tamanho de Camiseta: M,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
